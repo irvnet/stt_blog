@@ -5,7 +5,7 @@ build_search_index = false
 theme = "tabi"
 title = "Short Tech Takes"
 taxonomies = [{name = "tags", feed = true}]
-tags = ["skills", "productivity"]
+#tags = ["skills", "productivity"]
 
 [markdown]
 highlight_code = true
