@@ -1,4 +1,4 @@
-base_url = "https://shorttechtakes.netlify.com/"
+base_url = "https://shorttechtakes.pages.dev/"
 description = "Short takes on understanding tech these days as things move so fast... "
 compile_sass = true
 build_search_index = false
