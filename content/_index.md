@@ -5,7 +5,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Keeping It Short...", img = "img/main.webp", img_alt = "banner image" }
+header = {title = "Keeping It Short...", img = "img/stt.webp", img_alt = "banner image" }
 section_path = "blog/_index.md"
 max_posts = 4
 max_projects = 3
