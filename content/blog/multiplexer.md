@@ -9,7 +9,9 @@ description = "Feeling overwhelmed by juggling multiple terminal windows? There'
 tags = ["tools"]
 +++
 
-## Conquering the Command Line: The Power of Terminal Multiplexers
+## Conquering the CLI: The Power of Terminal Multiplexers
+
+
 
 **Introduction**
 
@@ -25,7 +27,11 @@ Each window demands your attention, but switching between them constantly disrup
 
 **What is a terminal multiplexer?**
 
-Think of your traditional terminal window as a single tab in a web browser. A terminal multiplexer is like having [PLACEHOLDER: Screenshot of a single terminal window] multiple tabs open at once, each with its own independent session. Imagine having your code editor open in one pane, your server logs streaming in another, and your file transfer progress visible in a third pane – all on a single screen!
+Think of your traditional terminal window as a single tab in a web browser. A terminal multiplexer is like having multiple tabs open at once, each with its own independent session. 
+
+![Zellij Layout](/img/zellij.png)
+
+Imagine having your code editor open in one pane, your server logs streaming in another, and your file transfer progress visible in a third pane – all on a single screen!
 
 
 **What sets Zellij apart? Here are some highlights:**
