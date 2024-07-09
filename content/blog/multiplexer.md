@@ -6,7 +6,7 @@ date = 2023-11-02
 updated = 2023-11-02
 description = "Feeling overwhelmed by juggling multiple terminal windows? There's a better way!"
 
-#tags = ["rust", "getting started"]
+tags = ["tools"]
 +++
 
 ## Conquering the Command Line: The Power of Terminal Multiplexers
@@ -64,7 +64,9 @@ Zellij's lightning-fast pane switching allows you to jump between code sections 
 
 Managing multiple servers can be overwhelming with separate terminal windows for each connection. Zellij can streamline your workflow:
 
+![zellij-screenshot](img/zellij.png)
 [PLACEHOLDER: Screenshot showing Zellij with multiple panes, each potentially displaying output from a different server connection and labeled with nicknames (e.g., "webserver," "database")]
+
 
 * Initiate SSH connections to your different servers in separate Zellij panes.
 * Assign nicknames to each pane for easy identification (e.g., "webserver," "database").
